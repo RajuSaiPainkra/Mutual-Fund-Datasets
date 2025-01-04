@@ -16,18 +16,18 @@ This dataset consists of performance metrics for Indian mutual funds, with data 
 
 
 ##### Annually Mutual Fund Returns.csv
-**Rows:** [Number of rows in file]
-**Columns:** [Column names in the file]
+**Rows:** 1651 <br>
+**Columns:** 14 <br>
 **Description:** Contains annual return data for mutual funds.
 
 ##### Quarterly Mutual Fund Returns.csv
-**Rows:** [Number of rows in file]
-**Columns:** [Column names in the file]
+**Rows:** 1651 <br>
+**Columns:** 14 <br>
 **Description:** Contains quarterly return data for mutual funds.
 
 ##### Monthly Mutual Fund Returns 2024.csv
-**Rows:** [Number of rows in file]
-**Columns:** [Column names in the file]
+**Rows:** 1651 <br>
+**Columns:** 14 <br>
 **Description:** Contains monthly return data for mutual funds for the year 2024.
 
 
