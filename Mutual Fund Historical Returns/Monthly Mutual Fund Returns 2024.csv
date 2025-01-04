@@ -1,4 +1,4 @@
-Fund,Fund Manager,Category,Mar 24,Apr 24,May 24,Jun 24,Jul 24,Aug 24,Sep 24,Oct 24,Nov 24,Dec 24,classification
+Fund,Fund Manager,Category,Mar-24,Apr-24,May-24,Jun-24,Jul-24,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24,classification
 360 ONE Balanced Hybrid Fund Reg(G),Mayur Patel,HY-EQ,0.61,3.19,2.6,4.3,2.26,0.54,0.98,-1.8,0.48,-0.09,Hybrid : Equity Oriented
 360 ONE Dynamic Bond Fund Reg(G),Milan Mody,DT-DYN,0.65,-0.05,0.97,0.66,1.06,1.14,1.2,0.45,0.24,0.53,Debt : Dynamic Bond
 360 ONE ELSS Tax Saver Nifty 50 Index Fund Reg(G),Parijat Garg,EQ-ELSS,1.51,1.2,-0.02,6.66,3.92,1.31,2.27,-6.12,-0.3,-2.04,Equity : Tax Saving (ELSS)
@@ -146,7 +146,7 @@ Axis Growth Opp Fund Reg(G),Shreyash Devalkar,EQ-L&M,3.32,2.52,2.11,6.34,4.24,1.
 Axis India Manufacturing Fund Reg(G),Shreyash Devalkar,EQ-THEM,4.6,4.83,6.66,7.25,3.67,0.76,2.34,-7.73,-0.44,-0.22,Equity : Thematic
 Axis Innovation Fund Reg(G),Ashish Naik,EQ-THEM,4.01,3.15,1.74,8.02,2.44,2.32,3.89,-5.2,1.15,-0.11,Equity : Thematic
 Axis Liquid Fund Reg(G),Devang Shah,DT-LIQ,0.67,0.61,0.6,0.56,0.6,0.58,0.59,0.59,0.57,0.59,Debt : Liquid
-Axis Long Duration Fund Reg(G),Devang Shah,DT-LD,1.1,-1.3,2.48,1.26,0.7,1.09,1.82,-0.5,-0,0.65,Debt : Long Duration
+Axis Long Duration Fund Reg(G),Devang Shah,DT-LD,1.1,-1.3,2.48,1.26,0.7,1.09,1.82,-0.5,0,0.65,Debt : Long Duration
 Axis Midcap Fund Reg(G),Shreyash Devalkar,EQ-MID,1.76,4.98,4.54,8.84,2.97,1.78,2.58,-6.21,0.77,1.5,Equity : Mid Cap
 Axis Money Market Fund Reg(G),Devang Shah,DT-MM,0.77,0.6,0.61,0.56,0.7,0.58,0.64,0.62,0.57,0.59,Debt : Money Market
 Axis Multi Asset Allocation Fund Reg(G),Ashish Naik,HY-MULTI,1.49,3.29,1.16,4.54,4.33,1.6,1.32,-2.54,-0.39,-0.71,Hybrid : Multi Asset Allocation
@@ -198,7 +198,7 @@ Bajaj Finserv Nifty Bank ETF,Ilesh Savla,EQ-ETF,2.17,4.81,-0.32,6.92,-1.48,-0.18
 Bajaj Finserv Overnight Fund Reg(G),Siddharth Chaudhary,DT-ON,0.56,0.53,0.55,0.53,0.54,0.54,0.53,0.53,0.52,0.55,Debt : Overnight
 Bandhan All Seasons Bond Fund Reg(G),Harshal Joshi,FOF-DOM,0.65,0.25,0.86,0.56,0.89,0.68,0.89,0.41,0.61,0.51,FoFs : Domestic
 Bandhan Arbitrage Fund Reg(G),Nemish Sheth,HY-ARB,0.61,0.66,0.58,0.64,0.6,0.56,0.5,0.63,0.5,0.6,Hybrid : Arbitrage
-Bandhan Asset Alloc FoF Aggr Reg(G),Viraj Kulkarni,FOF-DOM,1.01,2.13,-0,5.7,2.42,2.41,1.9,-4.06,0.57,-0.29,FoFs : Domestic
+Bandhan Asset Alloc FoF Aggr Reg(G),Viraj Kulkarni,FOF-DOM,1.01,2.13,0,5.7,2.42,2.41,1.9,-4.06,0.57,-0.29,FoFs : Domestic
 Bandhan Asset Alloc FoF Cons Reg(G),Viraj Kulkarni,FOF-DOM,0.81,0.87,0.5,2.2,1.33,1.12,1.08,-1.28,0.52,0.15,FoFs : Domestic
 Bandhan Asset Alloc FoF Mod Reg(G),Viraj Kulkarni,FOF-DOM,0.96,1.5,0.11,4.35,1.81,2.09,1.67,-2.68,0.7,0.08,FoFs : Domestic
 Bandhan Balanced Advantage Fund Reg(G),Manish Gunwani,HY-DYN,1.24,2.39,0.65,3.32,2.49,1.41,1.26,-2.12,1.2,0.13,Hybrid : Dynamic Asset Allocation
@@ -523,7 +523,7 @@ Groww Nifty India Defence ETF,Abhishek Jain,EQ-ETF,-,-,-,-,-,-,-,-,5.64,-3.23,Eq
 Groww Nifty India Defence ETF FOF Reg(G),Abhishek Jain,FOF-DOM,-,-,-,-,-,-,-,-,5.22,-2.74,FoFs : Domestic
 Groww Nifty Non Cyclical Consumer Index Fund Reg(G),Abhishek Jain,EQ-INDX,-,-,-,7.19,6.55,4.32,4.6,-10.38,0.41,-0.58,Equity : Index Funds
 Groww Nifty Smallcap 250 Index Fund Reg(G),Abhishek Jain,EQ-INDX,-4.39,10.3,-1.38,9.43,4.87,1.3,1.15,-3.64,-0.22,0.09,Equity : Index Funds
-Groww Nifty Total Market Index Fund Reg(G),Abhishek Jain,EQ-INDX,0.47,3.76,0.56,7.07,4.37,0.96,2.08,-6.32,-0,-1.43,Equity : Index Funds
+Groww Nifty Total Market Index Fund Reg(G),Abhishek Jain,EQ-INDX,0.47,3.76,0.56,7.07,4.37,0.96,2.08,-6.32,0,-1.43,Equity : Index Funds
 Groww Overnight Fund Reg(G),Kaustubh Sule,DT-ON,0.55,0.53,0.55,0.53,0.54,0.52,0.54,0.52,0.49,0.56,Debt : Overnight
 Groww Short Duration Fund Reg(G),Kaustubh Sule,DT-SD,0.43,0.27,0.67,0.56,0.9,0.61,0.71,0.4,0.42,0.47,Debt : Short Duration
 Groww Value Fund Reg(G),Anupam Tiwari,EQ-VAL,0.59,2.41,0.63,5.29,3.55,0.53,1.79,-4.4,0.31,-2.83,Equity : Value / Contra
@@ -732,7 +732,7 @@ ICICI Pru Nifty 200 Momentum 30 Index Fund Reg(G),Nishit Patel,EQ-INDX,2.68,5.71
 ICICI Pru Nifty 200 Quality 30 ETF,Nishit Patel,EQ-ETF,-0.36,0.83,3.95,6.55,7.76,2.58,2.31,-8.58,-0.06,-2.24,Equity : ETFs
 ICICI Pru Nifty 5 yr Benchmark G SEC ETF,Darshil Dedhia,DT-M&LD,0.6,0.03,1.13,0.56,1.36,0.87,1.03,0.01,0.76,0.49,Debt : Medium to Long Duration
 ICICI Pru Nifty 50 ETF,Nishit Patel,EQ-ETF,1.56,1.24,0.02,6.74,3.98,1.35,2.27,-6.12,-0.26,-2.02,Equity : ETFs
-ICICI Pru Nifty 50 Index Fund(G),Nishit Patel,EQ-INDX,1.56,1.19,-0,6.7,3.94,1.32,2.24,-6.14,-0.29,-2.05,Equity : Index Funds
+ICICI Pru Nifty 50 Index Fund(G),Nishit Patel,EQ-INDX,1.56,1.19,0,6.7,3.94,1.32,2.24,-6.14,-0.29,-2.05,Equity : Index Funds
 ICICI Pru Nifty Alpha Low   Volatility 30 ETF,Nishit Patel,EQ-ETF,2.68,0.94,0.02,5.88,6.55,1.76,2.6,-8.48,-2.43,-2.07,Equity : ETFs
 ICICI Pru Nifty Alpha Low   Volatility 30 ETF FOF(G),Nishit Patel,FOF-DOM,3.15,0.59,0.27,5.58,6.11,2.1,2.44,-8.33,-2.51,0.41,FoFs : Domestic
 ICICI Pru Nifty Auto ETF,Nishit Patel,EQ-ETF,4.92,4.94,4.17,7.79,6.1,-1.62,3.25,-13.01,-0.61,-2.31,Equity : ETFs
@@ -892,7 +892,7 @@ Kotak Floating Rate Fund Reg(G),Deepak Agrawal,DT-FL,0.67,0.7,0.58,0.64,1.01,0.6
 Kotak Focused Equity Fund Reg(G),Shibani Kurian,EQ-MLC,1.7,3.38,1.5,7.66,4.21,0.58,2.41,-6.73,1.11,-2.4,Equity : Multi Cap
 Kotak Gilt Fund PF&Trust(G),Abhishek Bisen,DT-GILT,0.79,-0.85,1.75,1,0.58,1.18,1.75,-0.45,0.2,0.45,Debt : Gilt
 Kotak Gilt Fund Reg(G),Abhishek Bisen,DT-GILT,0.79,-0.85,1.75,1,0.58,1.18,1.75,-0.45,0.2,0.45,Debt : Gilt
-Kotak Global Emerging Mkt Fund(G),Arjun Khanna,FOF-OVR,2.2,-0,0.38,3.11,-0.91,2.18,4.8,-3.07,-3,-1.05,FoFs : Overseas
+Kotak Global Emerging Mkt Fund(G),Arjun Khanna,FOF-OVR,2.2,0,0.38,3.11,-0.91,2.18,4.8,-3.07,-3,-1.05,FoFs : Overseas
 Kotak Global Innovation FoF Reg(G),Arjun Khanna,FOF-OVR,1.61,-4.12,3.59,2.25,0.26,3.74,1.61,-0.33,5.97,-2.86,FoFs : Overseas
 Kotak Gold ETF,Abhishek Bisen,GOLD-ETF,7.81,6.56,0.8,-0.79,-3.48,3.69,4.57,5.33,-3.47,-0.66,Gold : ETFs
 Kotak Gold Fund(G),Abhishek Bisen,GOLD-MF,7.23,7.51,0.55,-0.82,-3.57,3.57,4.63,5.08,-3.9,-0.19,Gold : MFs
@@ -957,7 +957,7 @@ LIC MF BSE Sensex ETF,Sumit Bhatnagar,EQ-ETF,1.58,1.12,-0.33,7.07,3.5,0.95,2.3,-
 LIC MF BSE Sensex Index Fund Reg(G),Sumit Bhatnagar,EQ-INDX,1.49,1.03,-0.41,6.96,3.41,0.86,2.24,-5.79,0.48,-2.18,Equity : Index Funds
 LIC MF Childrens Fund Reg(G),Nikhil Rungta,HY-SOL,-0.61,3.18,0.43,8.28,3.07,1.52,1.58,-4.87,1.97,1.48,Hybrid : Solution Oriented
 LIC MF Conservative Hybrid Fund(G),Pratik Shroff,HY-DT(CO),0.09,0.11,0.95,2.4,1.43,0.96,1.32,-1.27,0.89,-0.05,Hybrid : Debt Oriented (Conservative)
-LIC MF Dividend Yield Fund Reg(G),Dikshit Mittal,EQ-DIV,0.37,6.24,3.01,8.11,6.23,2.1,1.74,-6.29,-0,-1.05,Equity : Thematic - Dividend Yield
+LIC MF Dividend Yield Fund Reg(G),Dikshit Mittal,EQ-DIV,0.37,6.24,3.01,8.11,6.23,2.1,1.74,-6.29,0,-1.05,Equity : Thematic - Dividend Yield
 LIC MF ELSS Tax Saver Reg(G),Yogesh Patil,EQ-ELSS,1.42,4.01,2.18,9.04,3.85,1.38,2.38,-5.09,0.91,0.55,Equity : Tax Saving (ELSS)
 LIC MF Equity Savings Fund(G),Sumit Bhatnagar,HY-EQ,0.22,2.01,-0.04,2.9,2.03,0.66,0.4,-1.27,0.54,-0.06,Hybrid : Equity Oriented
 LIC MF Flexi Cap Fund Reg(G),Nikhil Rungta,EQ-FLEX,0.45,4.01,1.56,9.38,4.6,-0.01,3,-5.66,0.83,-1.15,Equity : Flexi Cap
@@ -1146,7 +1146,7 @@ Navi Large & Midcap Fund Reg(G),Aditya Mulki,EQ-L&M,-2.11,5.51,0.67,10.54,3.91,1
 Navi Liquid Fund Reg(G),Tanmay Sethi,DT-LIQ,0.59,0.55,0.57,0.54,0.57,0.55,0.58,0.56,0.53,0.59,Debt : Liquid
 Navi NASDAQ 100 FoF Reg(G),Aditya Mulki,FOF-OVR,1.82,-4.37,6.41,6.04,-1.33,1.35,2.43,-0.55,5.85,1.7,FoFs : Overseas
 Navi Nifty 50 ETF,Aditya Mulki,EQ-ETF,1.53,1.23,0.02,6.67,3.91,1.32,2.28,-6.03,-0.26,0,Equity : ETFs
-Navi Nifty 50 Index Fund Reg(G),Aditya Mulki,EQ-INDX,1.53,1.2,-0,6.71,3.95,1.32,2.23,-6.15,-0.28,-2.04,Equity : Index Funds
+Navi Nifty 50 Index Fund Reg(G),Aditya Mulki,EQ-INDX,1.53,1.2,0,6.71,3.95,1.32,2.23,-6.15,-0.28,-2.04,Equity : Index Funds
 Navi Nifty 500 Multicap 50:25:25 Index Fund Reg(G),Aditya Mulki,EQ-INDX,-,-,-,-,-,-,1.78,-5.89,-0.05,-0.88,Equity : Index Funds
 Navi Nifty Bank Index Fund Reg(G),Aditya Mulki,EQ-INDX,2.08,4.76,-0.39,6.86,-1.56,-0.25,3.1,-2.92,1.06,-2.38,Equity : Index Funds
 Navi Nifty India Manufacturing Index Fund Reg(G),Aditya Mulki,EQ-INDX,4.11,5.87,5.43,6.71,3.67,-0.01,2.76,-9,-0.9,-1.97,Equity : Index Funds
@@ -1290,7 +1290,7 @@ Quant ESG Equity Fund Reg(G),Ankit Pande,EQ-THEM,-2.39,3.88,2.86,4.41,9.93,0.69,
 Quant Flexi Cap Fund(G),Ankit Pande,EQ-FLEX,-0.69,6.03,1.78,5.14,4.46,-1.32,1.77,-8.2,-3.33,-2.57,Equity : Flexi Cap
 Quant Focused Fund(G),Ankit Pande,EQ-LC,0.28,3.86,0.37,4.7,4.11,0.07,1.96,-7.33,-2.37,-3.2,Equity : Large Cap
 Quant Gilt Fund Reg(G),Sanjeev Sharma,DT-GILT,0.61,0.18,0.84,0.55,0.81,0.7,1.01,0.23,0.39,0.55,Debt : Gilt
-Quant Healthcare Fund Reg(G),Sandeep Tandon,EQ-PHRM,-2.58,5.46,0.86,5.13,11.13,5.12,-0,-4.36,-0.67,-3.04,Equity : Sectoral - Pharma
+Quant Healthcare Fund Reg(G),Sandeep Tandon,EQ-PHRM,-2.58,5.46,0.86,5.13,11.13,5.12,0,-4.36,-0.67,-3.04,Equity : Sectoral - Pharma
 Quant Infrastructure Fund(G),Ankit Pande,EQ-INFRA,-0.44,7.49,1.76,3.95,3.35,-3.87,0.94,-6.91,-1.16,-0.91,Equity : Sectoral - Infrastructure
 Quant Large & Mid Cap Fund(G),Ankit Pande,EQ-L&M,2.04,6.43,2.6,4.29,3.61,-1.36,0.93,-6.9,-2.67,-1.38,Equity : Large & Mid Cap
 Quant Large Cap Fund Reg(G),Sandeep Tandon,EQ-LC,0.31,4.09,0.24,3.82,4.55,-0.69,2.11,-5.46,-2.19,-2.46,Equity : Large Cap
@@ -1645,9 +1645,3 @@ Zerodha Gold ETF,Shyam Agarwal,GOLD-ETF,7.74,6.57,0.78,-0.78,-3.45,3.68,4.55,5.3
 Zerodha Nifty 100 ETF,Kedarnath Mirajkar,EQ-ETF,-,-,-,-,4.14,1.14,2.33,-6.73,0.03,-2.23,Equity : ETFs
 Zerodha Nifty 1D Rate Liquid ETF,Apurv Parikh,DT-ETF,0.54,0.51,0.53,0.51,0.52,0.5,0.52,0.52,0.49,0.55,Debt : ETFs
 Zerodha Nifty Midcap 150 ETF,Kedarnath Mirajkar,EQ-ETF,-,-,-,-,5.07,0.4,1.79,-6.4,0.24,1.16,Equity : ETFs
-
-Disclaimer -   All necessary precautions have been taken to avoid any error 
- lapse or insufficiency in preparing this report ; however ; no representations 
- or warranties are made (express or implied) as to the reliability 
- accuracy or completeness of such information. The Company cannot 
-be held liable for the contents of this report or for any action taken on its basis.

@@ -1,4 +1,4 @@
-Fund,Fund Manager,Category,Sep 22,Dec 22,Mar 23,Jun 23,Sep 23,Dec 23,Mar 24,Jun 24,Sep 24,Dec 24,classification
+Fund,Fund Manager,Category,Sep-22,Dec-22,Mar-23,Jun-23,Sep-23,Dec-23,Mar-24,Jun-24,Sep-24,Dec-24,classification
 360 ONE Balanced Hybrid Fund Reg(G),Mayur Patel,HY-EQ,-,-,-,-,-,6.53,2.7,10.43,3.81,-1.42,Hybrid : Equity Oriented
 360 ONE Dynamic Bond Fund Reg(G),Milan Mody,DT-DYN,1.59,1.52,1.15,2.41,1.28,1.78,3,1.58,3.44,1.22,Debt : Dynamic Bond
 360 ONE ELSS Tax Saver Nifty 50 Index Fund Reg(G),Parijat Garg,EQ-ELSS,-,-,-4.39,10.84,2.45,10.64,2.77,7.92,7.68,-8.31,Equity : Tax Saving (ELSS)
@@ -960,7 +960,7 @@ LIC MF Conservative Hybrid Fund(G),Pratik Shroff,HY-DT(CO),2.41,1.71,0.49,2.66,0
 LIC MF Dividend Yield Fund Reg(G),Dikshit Mittal,EQ-DIV,11.57,2.06,-3.12,11.98,7.4,13.64,8.89,18.31,10.35,-7.28,Equity : Thematic - Dividend Yield
 LIC MF ELSS Tax Saver Reg(G),Yogesh Patil,EQ-ELSS,13.5,-1.2,-2.6,14.61,3.44,9.35,1.96,15.87,7.79,-3.7,Equity : Tax Saving (ELSS)
 LIC MF Equity Savings Fund(G),Sumit Bhatnagar,HY-EQ,4.26,2.19,-1.82,4.71,4.16,4.53,1.51,4.92,3.11,-0.8,Hybrid : Equity Oriented
-LIC MF Flexi Cap Fund Reg(G),Nikhil Rungta,EQ-FLEX,11.49,-0,-2.72,13.86,6.64,9.02,1.47,15.54,7.73,-5.97,Equity : Flexi Cap
+LIC MF Flexi Cap Fund Reg(G),Nikhil Rungta,EQ-FLEX,11.49,0,-2.72,13.86,6.64,9.02,1.47,15.54,7.73,-5.97,Equity : Flexi Cap
 LIC MF Focused Fund Reg(G),Jaiprakash Toshniwal,EQ-LC,10,4.08,-3.66,9.73,3.43,7.97,1.2,10.9,10.44,-9.34,Equity : Large Cap
 LIC MF Gilt Fund PF(G),Marzban Irani,DT-GILT,0.63,1.3,1.44,2.36,0.86,1.45,2.94,1.68,3.24,0.43,Debt : Gilt
 LIC MF Gilt Fund Reg(G),Marzban Irani,DT-GILT,0.63,1.3,1.44,2.36,0.86,1.45,2.94,1.68,3.24,0.43,Debt : Gilt
@@ -1359,7 +1359,7 @@ SBI Gold Reg(G),Raviprakash Sharma,GOLD-MF,-1.73,8.47,9.51,-3.85,-0.16,8.58,5.99
 SBI Healthcare Opp Fund Reg(G),Tanmaya Desai,EQ-PHRM,8.9,2.05,-2.23,18.64,8.96,9.37,11.71,4.22,17.36,4.08,Equity : Sectoral - Pharma
 SBI Infrastructure Fund Reg(G),Bhavin Vithlani,EQ-INFRA,12.63,4.04,0.82,12.6,12.53,17.18,9.61,16.84,3.65,-8.98,Equity : Sectoral - Infrastructure
 SBI Innovative Opportunities Fund Reg(G),Prasad Padala,EQ-THEM,-,-,-,-,-,-,-,-,-,-0.92,Equity : Thematic
-SBI International Access US Equity FoF Reg(G),Pradeep Kesavan,FOF-OVR,-4.61,9.75,3.87,7.32,-0,13.52,11.6,5.89,3.24,0.77,FoFs : Overseas
+SBI International Access US Equity FoF Reg(G),Pradeep Kesavan,FOF-OVR,-4.61,9.75,3.87,7.32,0,13.52,11.6,5.89,3.24,0.77,FoFs : Overseas
 SBI Large & Midcap Fund Reg(G),Saurabh Pant,EQ-L&M,15.92,1.93,-2.65,12.23,5.26,10.26,2.6,13.26,7.46,-5.46,Equity : Large & Mid Cap
 SBI Liquid Fund Reg(G),R. Arun,DT-LIQ,1.26,1.6,1.66,1.69,1.69,1.73,1.84,1.77,1.76,1.71,Debt : Liquid
 SBI Long Duration Fund Reg(G),Tejas Soman,DT-LD,-,-,2.39,2.29,1.14,1.79,4.81,2.27,3.57,0.17,Debt : Long Duration
@@ -1645,9 +1645,3 @@ Zerodha Gold ETF,Shyam Agarwal,GOLD-ETF,-,-,-,-,-,-,-,6.57,4.66,1.03,Gold : ETFs
 Zerodha Nifty 100 ETF,Kedarnath Mirajkar,EQ-ETF,-,-,-,-,-,-,-,-,7.79,-8.79,Equity : ETFs
 Zerodha Nifty 1D Rate Liquid ETF,Apurv Parikh,DT-ETF,-,-,-,-,-,-,-,1.57,1.55,1.56,Debt : ETFs
 Zerodha Nifty Midcap 150 ETF,Kedarnath Mirajkar,EQ-ETF,-,-,-,-,-,-,-,-,7.38,-5.1,Equity : ETFs
-
-Disclaimer -   All necessary precautions have been taken to avoid any error 
- lapse or insufficiency in preparing this report ; however ; no representations 
- or warranties are made (express or implied) as to the reliability 
- accuracy or completeness of such information. The Company cannot 
-be held liable for the contents of this report or for any action taken on its basis.
